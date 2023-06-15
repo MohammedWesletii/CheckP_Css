@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url("https://d33wubrfki0l68.cloudfront.net/3697f8a424a77e6e5b422007590aedb27abca140/2cad2/static/constellations-4eee0ff82aba4d347fc46bb276834140.jpg");
+    font-family: Roboto;
+
+
+}
+
+.navbar ul{
+    list-style: none;
+    background: #4fb7c5;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.navbar li{
+    display: inline;
+    
+    
+}
+.navbar a{
+    text-decoration: none;
+    color: aliceblue;
+    width: 100px;
+    display: inline-block;
+    padding: 25px 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: center;
+}
+.navbar a:hover{
+    background:RoyalBlue;
+
+}
